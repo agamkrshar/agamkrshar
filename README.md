@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agamkrshar
+- 👋 Hi, I’m Agam
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Pythan
 - 💞️ I’m looking to collaborate on Web Development projects
