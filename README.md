@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @agamkrshar
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Pythan
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Development projects
+- 📫 How to reach me ... kumaragamsharma@gmail.com
 
 <!---
 agamkrshar/agamkrshar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
